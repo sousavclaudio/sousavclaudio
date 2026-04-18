@@ -1,16 +1,44 @@
-## Hi there 👋
+# Claudio Veras
 
-<!--
-**sousavclaudio/sousavclaudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior RPA Developer | Automation Engineer | .NET | Python | UiPath
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I design and build scalable automation solutions in enterprise environments, especially in financial services.
+
+Focused on:
+- RPA architecture (UiPath / REFramework)
+- Scalable automation pipelines
+- API integrations
+- Intelligent automation with Python
+
+---
+
+## Tech Stack
+
+- RPA: UiPath, Orchestrator
+- Backend: C#, .NET, Python
+- Data: SQL, BigQuery
+- Cloud: AWS, GCP
+- DevOps: Git, Docker, Terraform
+
+---
+
+## Featured Project
+
+### REPyBot
+Python framework inspired by UiPath REFramework.
+
+- State machine architecture
+- Modular design
+- Transaction-based processing
+
+👉 https://github.com/sousavclaudio/repybot
+
+---
+
+## Contact
+
+LinkedIn: (coloca seu link aqui)
