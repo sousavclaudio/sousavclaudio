@@ -41,4 +41,5 @@ Python framework inspired by UiPath REFramework.
 
 ## Contact
 
-LinkedIn: (coloca seu link aqui)
+- 💼 LinkedIn: https://www.linkedin.com/in/claudiosousav/  
+- 💻 GitHub: https://github.com/sousavclaudio
